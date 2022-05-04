@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[498],{1498:function(e,s,n){n.r(s);var t=n(1253),a=n(3497),i=n(184);s.default=function(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)(t.Z,{}),(0,i.jsx)(a.Z,{page:"whitelist"}),(0,i.jsx)("main",{children:"Hello Whitelist page"})]})}}}]);
+//# sourceMappingURL=498.1a017be5.chunk.js.map
